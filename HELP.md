@@ -18,3 +18,6 @@ The following guides illustrate how to use some features concretely:
 Find the Recipe app model at
 https://start.jhipster.tech/jdl-studio/#!/view/79030e6f-e340-43c0-b07a-9fe21417267e
 
+
+to test circleci
+
